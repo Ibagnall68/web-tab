@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    font-size: xx-large;
+    background-color: skyblue;
+}
+
+header h1 {
+    color: rgb(33, 3, 102);
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+  
+  footer p {
+    color: rgb(33, 3, 102);
+  }
