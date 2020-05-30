@@ -1,11 +1,12 @@
-header {
-    text-align: center;
-    font-size: xx-large;
-    background-color: skyblue;
+.category {
+    
+    display: grid;
+    grid-template-columns: 30% 60% 10%;
+    grid-column-gap: 1em;
 }
 
-header h1 {
-    color: rgb(33, 3, 102);
+.category p {
+  background-color: #778ca3;
 }
 
 footer {
@@ -16,6 +17,17 @@ footer {
     height: 2.5rem;
   }
   
-  footer p {
+footer p {
     color: rgb(33, 3, 102);
-  }
+}
+
+header {
+    text-align: left;
+    font-size: xx-large;
+    background-color: #4b6584;
+}
+
+header h1 {
+    color: #d1d8e0;
+}
+

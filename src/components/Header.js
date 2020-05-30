@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header>
             
-            <h1><TabIcon/>Web Structured</h1>
+            <h1><TabIcon fontSize="large"/>Web Helper</h1>
            
            
         </header>
