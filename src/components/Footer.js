@@ -6,12 +6,8 @@ export default function Footer() {
 
     return ( 
         <footer>
-        <p> Copyright © LAWKI {year} </p> 
+            <p> Copyright © LAWKI {year} </p> 
         </footer>
     );
-
-
-
-
 
 }
